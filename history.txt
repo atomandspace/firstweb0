@@ -1,0 +1,318 @@
+    1  npm install --global smee client
+    2  ls
+    3  mkdir firstweb
+    4  cd firstweb
+    5  ls
+    6  git init
+    7  nano makefile
+    8  make
+    9  apt install make
+   10  make
+   11  cat README.md
+   12  nano makefile
+   13  make
+   14  cat README.md
+   15  nano makefile
+   16  rm RE*
+   17  ls
+   18  make
+   19  cat README.md 
+   20  make
+   21  nano makefile
+   22  make
+   23  date
+   24  cat README.md 
+   25  rm *md
+   26  make
+   27  nano makefile
+   28  makefile
+   29  make
+   30  cat README.md 
+   31  crontab -e
+   32  ls
+   33  cat README.md
+   34  crontab -e
+   35  nano webupdate.sh
+   36  git add -A
+   37  git status
+   38  git branch
+   39  git remote
+   40  git remote add origin https://github.com/atomspac/firstweb.git
+   41  git branch
+   42  git status
+   43  git commit -m "updated REAME.md first time"
+   44  git config --global user.email "atomand.space@gmail.com" 
+   45  git config user.name "atomspac"
+   46  git commit -m "updated REAME.md first time"
+   47  git branch
+   48  git status
+   49  git push -u origin master
+   50  ls
+   51  nano webupdate.sh
+   52  git push
+   53  cd
+   54  ls
+   55  mkdir keys
+   56  cd keys
+   57  ls
+   58  ssh-keygen
+   59  ls
+   60  ~/.ssh/key-git
+   61  ls ~/.ssh
+   62  cat ~/.ssh/authorized_keys
+   63  rm *
+   64  ls
+   65  cd
+   66  cd firstweb
+   67  ls
+   68  git remote set-url origin git@github.com:atomspac/firstweb.git
+   69  git push
+   70  cd
+   71  mv keys
+   72  mv -keys
+   73  ls
+   74  cd keys
+   75  ~/.ssh
+   76  cd ~/.ssh
+   77  ls
+   78  rm known_hosts
+   79  ls
+   80  cd
+   81  cd keys
+   82  ls
+   83  ssh-keygen
+   84  cat id_rsa
+   85  ls
+   86  cat git-key.pub
+   87  git push
+   88  cd
+   89  cd firstweb
+   90  git push
+   91  git add -A
+   92  git remote add origin git@github.com:atomspac/firstweb.git
+   93  git help remote
+   94  git remote remove git@github.com:atomspac/firstweb.git
+   95  git remote
+   96  git remote remove origin
+   97  git remote
+   98  git remote add origin git@github.com:atomspac/firstweb.git
+   99  git remote
+  100  git commit -m "README.m"
+  101  git status
+  102  ls
+  103  git init
+  104  git add -A
+  105  git status
+  106  git branch
+  107  git add -A
+  108  ls
+  109  git status
+  110  ls
+  111  git push
+  112  git push --set-upstream origin master
+  113  la
+  114  ld
+  115  ls
+  116  cd
+  117  ls
+  118  cd keys
+  119  ls
+  120  mv git-key git-key.pub ~/.ssh
+  121  ls
+  122  ls ~/.ssh
+  123  cd 
+  124  cd firstweb
+  125  ls
+  126  git push
+  127  git push --set-upstream origin master
+  128  git remote set-url https://github.com/atomspac/firstweb.git
+  129  ls
+  130  cp -A /root/
+  131  cp * /root/
+  132  ls
+  133  cd
+  134  rm firstweb
+  135  rm -r firstweb
+  136  ls
+  137  mkdir firstweb
+  138  mv * /root/firstweb
+  139  mv * /root/firstweb/
+  140  ls
+  141  mv /root/firstweb/keys/ /root/
+  142  ls
+  143  firstweb
+  144  cd firstweb
+  145  ls
+  146  git init
+  147  git push
+  148  ls
+  149  ls keys
+  150  cdfirstweb
+  151  cd firstweb
+  152  ls
+  153  ls
+  154  cd firstweb
+  155  ls
+  156  GIT_SSH_COMMAND="ssh -i ~/.ssh/mysubdir/git-key -o 'IdentitiesOnly yes'" git push
+  157  git remote add origin git@github.com:atomspac/firstweb0.git
+  158  git remote
+  159  git add -A
+  160  git commit -m "updated README.md"
+  161  ls
+  162  GIT_SSH_COMMAND="ssh -i ~/.ssh/mysubdir/git-key -o 'IdentitiesOnly yes'" git push
+  163  git push --set-upstream origin master
+  164  cd
+  165  cd Keys
+  166  cd keys
+  167  ls
+  168  ssh-keygen -t rsa 4096 -C atomand.space@gmail.com
+  169  ssh-keygen -t rsa -b 4096 -C atomand.space@gmail.com
+  170  rm git*
+  171  cd
+  172  rm ~/.ssh/git*
+  173  ls ~/.ssh
+  174  eval $(ssh-agent -s)
+  175  cat ~/.ssh/id_rsa.pub
+  176  eval $(ssh-agent -s)
+  177  ssh-add ~/.ssh/id_rsa
+  178  cd firstweb
+  179  ls
+  180  make
+  181  git push
+  182  git push --set-upstream origin master
+  183  git branch
+  184  git push
+  185  make
+  186  git add -A
+  187  git commit -m "updated README.md"
+  188  git push
+  189  ls
+  190  nano webupdate.sh
+  191  make
+  192  bash webupdate.sh
+  193  nano webupdate.sh
+  194  git status
+  195  cd
+  196  crontab -e
+  197  cat README.sh
+  198  cat /root/firstweb/README.md 
+  199  crontab -e
+  200  date
+  201  cat /root/firstweb/README.md 
+  202  bash /root/firstweb/webupdate.sh
+  203  nano /root/firstweb/webupdate.sh
+  204  cat /root/firstweb/README.md 
+  205  crontab -e
+  206  ls
+  207  cd firstweb
+  208  ls
+  209  ls -l
+  210  make
+  211  ls -l
+  212  crontab -e
+  213  date
+  214  ls
+  215  date
+  216  crontab -e
+  217  date
+  218  bash webupdate.sh
+  219  git pull
+  220  git status
+  221  git add -A
+  222  git commit -m "updated README.md"
+  223  git push
+  224  bash webupdate.sh
+  225  git pull
+  226  nano webupdate.sh
+  227  git status
+  228  git push
+  229  git status
+  230  git add -A
+  231  git status
+  232  git push
+  233  git status
+  234  cat README.md 
+  235  date
+  236  cat README.md 
+  237  crontab -e
+  238  cat README.md 
+  239  date
+  240  cat README.md 
+  241  git status
+  242  bash webupdate.sh 
+  243  git status
+  244  nano webupdate.sh
+  245  bash webupdate.sh
+  246  nano webupdate.sh
+  247  bash webupdate.sh
+  248  nano webupdate.sh
+  249  bash webupdate.sh
+  250  nano webupdate.sh
+  251  bash webupdate.sh
+  252  nano changecommit.sh
+  253  rm changecommit.sh
+  254  ls
+  255  nano webupdate.sh
+  256  bash webupdate.sh
+  257  ls
+  258  nano webupdate.sh
+  259  bash webupdate.sh
+  260  git push -u origin master
+  261  git psuh
+  262  git push
+  263  bash webupdate.sh 
+  264  nano webupdate.s
+  265  nano webupdate.sh 
+  266  bash webupdate.sh 
+  267  crontab -e
+  268  cd
+  269  crontab -e
+  270  ls
+  271  cat README.md
+  272  rm README.md 
+  273  ls
+  274  crontab -e
+  275  cd firstweb
+  276  ls
+  277  webupdate.sh
+  278  nano webupdate.sh
+  279  ls 
+  280  cat README.md 
+  281  date
+  282  cat README.md 
+  283  ls -l
+  284  nano webupdate.sh
+  285  cd
+  286  bash /root/firstweb/webupdate.sh
+  287  nano dirchnage.sh
+  288  crontab -e
+  289  date
+  290  crontab -e
+  291  cd firstweb.sh
+  292  cd firstweb
+  293  ls
+  294  git status
+  295  git add -A
+  296  git commit "updated webupdate"
+  297  git commit -m "updated webupdate"
+  298  git push origin master
+  299  git status
+  300  nano webupdate.sh
+  301  ls
+  302  cd
+  303  ls
+  304  nano date-prog.sh
+  305  crontab -e
+  306  bash date-prog.sh
+  307  ls
+  308  nano date-prog.sh
+  309  bash date-prog.sh
+  310  date-prog
+  311  var=$(date)
+  312  var
+  313  ls
+  314  exec ls
+  315  cd firstweb
+  316  ssh -T git@github.com
+  317  ssh-agent
+  318  history >history.txt
