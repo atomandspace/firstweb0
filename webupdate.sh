@@ -3,6 +3,6 @@
 
 $(cd /root/firstweb/)
 $(git add -A)
-$(git commit -m "updated README.md")
-
 echo "updated"
+$(git commit -m "updated README.md")
+$(git push)
