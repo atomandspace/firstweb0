@@ -2,7 +2,7 @@
 # This script is being run by cron 
 
 $(cd /root/firstweb/)
-$(git add -A)
+$(git add README.md)
 echo "updated"
 $(git commit -m "updated README.md")
-$(git push)
+$(git push -u origin master)
