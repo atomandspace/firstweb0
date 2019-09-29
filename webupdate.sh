@@ -4,7 +4,6 @@
 if [[ $(pwd) != "/root/firstweb" ]]
 then
 	cd /root/firstweb
-	echo "changed"
 elif [[ $(pwd) == "/root/firstweb" ]]
 then
 	git add -A
