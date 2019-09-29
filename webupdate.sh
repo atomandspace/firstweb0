@@ -1,8 +1,13 @@
 # updates the gihub with the current README.md file
 # This script is being run by cron 
 
-cd /root/firstweb/
-git add -A
-git commit -m "updated README.md"
-git push --all origin
-
+if [[ $(pwd) != "/root/firstweb" ]]
+then
+	cd /root/firstweb
+	echo "changed"
+elif [[ $(pwd) == "/root/firstweb" ]]
+then
+	git add -A
+	git commit -m "updated README.md"
+	git push --all origin
+fi
