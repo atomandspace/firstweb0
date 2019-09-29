@@ -2,10 +2,7 @@
 # This script is being run by cron 
 
 cd /root/firstweb/
-echo "1"
 git add -A
-echo "updated"
 git commit -m "updated README.md"
-echo "2"
-git push
-echo "3"
+git push --all origin
+
