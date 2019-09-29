@@ -7,5 +7,5 @@ git add -A
 echo "updated"
 git commit -m "updated README.md"
 echo "2"
-git push origin master
+git push
 echo "3"
